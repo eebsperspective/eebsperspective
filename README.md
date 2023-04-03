@@ -1,5 +1,5 @@
 
-![alt text]([https://github.com/eebsperspective/eebsperspective#:~:text=Commit%20time-,GITLAB_COVER%404x.png,-Add%20files%20via))
+![alt text](GITLAB_COVER@4x.png)
 
 
 
