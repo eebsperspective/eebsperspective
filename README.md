@@ -1,7 +1,7 @@
 
+![alt text]([http://url/to/img.png](https://i.postimg.cc/DwdGzmY1/GITLAB-COVER-4x.png))
 
 
-![Uploading GITLAB_COVER@4x.png…]()
 
 ### Hi there 👋
 
