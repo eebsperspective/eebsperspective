@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋
-
+- 😄 Pronouns: He/ Him
 
 - 🌱 I’m currently learning Svelte
 - 👯 I’m looking to collaborate on Angular, React Projects.
